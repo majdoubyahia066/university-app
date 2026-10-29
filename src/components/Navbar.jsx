@@ -1,15 +1,13 @@
-.header {
-  background: linear-gradient(135deg, #e0139f, #6b08cd);
-  color: #fff;
-  text-align: center;
-  padding: 30px 20px;
+import "./Navbar.css";
+
+function Navbar() {
+  return (
+    <nav className="navbar">
+      <a href="#">Accueil</a>
+      <a href="#">Étudiants</a>
+      <a href="#">Contact</a>
+    </nav>
+  );
 }
 
-.header h1 {
-  font-size: 28px;
-  margin-bottom: 6px;
-}
-
-.header p {
-  opacity: 0.85;
-}
+export default Navbar;

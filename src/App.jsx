@@ -23,8 +23,8 @@ const etudiants = [
     email: "aziz.trabelsi@gmail.com",
     telephone: "+216 22 345 678",
     filiere: "Génie Logiciel et Systèmes d'Information",
-    anneeEtude: "2ème année",
-    groupe: "GLSI 1",
+    anneeEtude: "1ème année",
+    groupe: "lcs",
     ville: "Sousse",
   },
   {
@@ -36,6 +36,26 @@ const etudiants = [
     anneeEtude: "2ème année",
     groupe: "GLSI 2",
     ville: "Tunis",
+  },
+    {
+    prenom: "salma",
+    nom: "jemni",
+    email: "jemnisalma4@gmail.com",
+    telephone: "+216 93 855 678",
+    filiere: "Génie Logiciel et Systèmes d'Information",
+    anneeEtude: "2ème année",
+    groupe: "GLSI 2",
+    ville: "mahdia",
+  },
+    {
+    prenom: "Ahmed",
+    nom: "gharbi",
+    email: "ahmed477@gmail.com",
+    telephone: "+216 54 345 001",
+    filiere: "Génie Logiciel et Systèmes d'Information",
+    anneeEtude: "1ème année",
+    groupe: "lcs",
+    ville: "msaken",
   },
 ];
 
